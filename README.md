@@ -1,78 +1,71 @@
-# Hi, I'm Are Nihal 👋
+# Hi, I'm Are Nihal! 👋
 
-### Computer Science Student | Aspiring Full-Stack Developer
+### Computer Science Engineering Student | Aspiring Full-Stack Developer
 
-I'm a Computer Science and Engineering student passionate about building practical web applications and learning modern software development technologies.
+I'm passionate about software development, building practical applications, and continuously learning new technologies.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Studying Computer Science and Engineering
-- 💻 Interested in full-stack web development
-- 🌱 Learning modern web technologies and AI
+- 🎓 Computer Science Engineering student
+- 💻 Interested in Full-Stack and Android Development
 - 🚀 Building real-world software projects
-- 🎯 Goal: Become a professional software developer
+- 🤖 Exploring Artificial Intelligence
+- 📚 Always learning and improving my development skills
 
-## 🛠️ Technical Skills
+## Technologies & Tools
 
-**Programming Languages**
-
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-**Frontend Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Backend, Database & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+### Frameworks & Development
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+
+### Database & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📚 PolyMate
-An educational resources platform for diploma and polytechnic students.
+### 1. PolyMate
+An educational platform for Telangana diploma students and faculty.
 
-**Technologies:** Next.js, Flask, Supabase, Firebase
+[View Repository](https://github.com/arenihal/PolyMate)
 
-[Live Website](https://polymate-frontend.vercel.app/)
+### 2. EngineeringQuizHub
+A full-stack engineering quiz platform with branch-wise assessments.
 
-### 🧠 EngineeringQuizHub
-A quiz platform designed for engineering students.
+[View Repository](https://github.com/arenihal/EngineeringQuizHub)
 
-**Technologies:** Next.js, Spring Boot, Firebase
+### 3. Grocery Bazaar
+An Android grocery browsing application developed using Java and XML.
 
-[Live Website](https://engineeringquizhub.vercel.app/)
+[View Repository](https://github.com/arenihal/GroceryBazar)
 
-### 📅 Event Ease
-A college event management system for exploring events, managing registrations, and tracking bookings.
+### 4. EventEase
+A college event management application.
 
-**Technologies:** Next.js, TypeScript, Firebase
+[View Repository](https://github.com/arenihal/event-ease)
 
-[GitHub Repository](https://github.com/arenihal/event-ease) |
-[Live Website](https://eventease-web-sooty.vercel.app/explore-events)
+## Current Focus
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arenihal&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arenihal&layout=compact)
-
-## 🔗 Connect With Me
-
-[GitHub Profile](https://github.com/arenihal)
+- Improving Full-Stack Development
+- Learning Advanced Java and Spring Boot
+- Exploring AI and modern technologies
+- Building useful software applications
 
 ---
 
-*Always learning, building, and improving.*
+**Thanks for visiting my GitHub profile!** 🚀
