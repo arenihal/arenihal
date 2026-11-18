@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Are Nihal 👋
 
-<!--
-**arenihal/arenihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm passionate about developing modern web applications, exploring new technologies, and improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎓 Computer Science and Engineering student
+- 💻 Interested in full-stack web development
+- 🌱 Currently learning advanced web technologies
+- 🚀 Building practical software projects
+
+### Technical Skills
+
+- **Languages:** Java, Python, JavaScript, TypeScript
+- **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
+- **Backend:** Flask, Spring Boot
+- **Database:** PostgreSQL, Firebase, Supabase
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+
+### Featured Projects
+
+**PolyMate** — Educational resources platform for diploma students.
+
+**EngineeringQuizHub** — Full-stack quiz platform for engineering students.
+
+**Student Portfolio Builder** — A platform for students to create professional portfolios.
+
+### Connect With Me
+
+- GitHub: https://github.com/are-nihal
+- Portfolio: Coming soon
+
+---
+
+*Learning • Coding • Building*
